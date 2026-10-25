@@ -40,7 +40,8 @@ Screenshot 4. [Task-scheduler](855b9558-046b-49f7-af06-ec9bbbecfbe5.jpeg)
 
 Screenshot 5. [Services](9d9ab20b-931b-4266-9f5c-c602a26b067e.jpeg)
 
-Screenshot 6. [Disk-management]()
+Screenshot 6. [Disk-management](bac77003-4c38-43e4-b13e-ab8c4f4fbb2e.jpeg)
+
 Screenshot 7. [computer-management](5aaf94fa-4883-4edb-af31-1fbc98bd86aa.jpeg)
 
 Screenshot 8. [Registry-Editor]()
