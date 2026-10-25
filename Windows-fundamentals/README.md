@@ -6,7 +6,7 @@ After building my foundation in computer hardware in Module 1, I went ahead to l
 
 2) File systems and permissions including NTFS, file ownership, access permissions, hidden files, encryption, and storage management.
 
-3)User accounts and access control, local accounts, user groups, administrator privileges, and least privilege.
+3) User accounts and access control, local accounts, user groups, administrator privileges, and least privilege.
 
 4) Processes, services, and startup programs. How applications run, how Windows services work, and how programs can start automatically.
 
@@ -18,7 +18,8 @@ After building my foundation in computer hardware in Module 1, I went ahead to l
 
 9) Networking and command-line tools. Practicing commands such as ipconfig, netstat, tasklist and systeminfo.
 
-I have understood some amazing terms along the way like, A) Least privilege (giving a user or application permission for the needed task only).
+I have understood some amazing terms along the way like,
+A) Least privilege (giving a user or application permission for the needed task only).
 
 B) Persistence (the ability of an attacker or malicious software to continuously execute whenever the computer restarts or signs in).
 
