@@ -1,0 +1,17 @@
+TOPICS COVERED
+Windows installation and boot process
+BIOS/UEFI, Secure Boot, Windows Recovery Environment, and system recovery.
+File systems and permissions 
+NTFS, file ownership, access permissions, hidden files, encryption, and storage management.
+User accounts and access control 
+Local accounts, user groups, administrator privileges, and the principle of least privilege.
+Processes, services, and startup programs 
+How applications run, how Windows services work, and how programs can start automatically.
+Windows Registry and Task Scheduler 
+How Windows stores configuration settings and manages scheduled tasks.
+System logs and troubleshooting 
+Using Event Viewer to examine system events and investigate problems.
+Device management 
+Understanding drivers, hardware IDs, and common device issues
+Networking and command-line tools 
+Practicing commands such as ipconfig, ping, tracert, nslookup, netstat, tasklist, and systeminfo.
