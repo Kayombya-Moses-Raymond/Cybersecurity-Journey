@@ -35,7 +35,8 @@ Screenshot 1. [Task-manager](7e2880e0-5423-4467-8bcf-788e4901e764.jpeg)
 Screenshot 2. [Device-manager]()
 
 Screenshot 3. [Event-viewer](1a975d00-7ac1-441a-bd84-faa0d159ccf7.jpeg)
-Screenshot 4. [Task-scheduler]()
+
+Screenshot 4. [Task-scheduler](855b9558-046b-49f7-af06-ec9bbbecfbe5.jpeg)
 Screenshot 5. [Services]()
 Screenshot 6. [Disk-management]()
 Screenshot 7. [computer-management](5aaf94fa-4883-4edb-af31-1fbc98bd86aa.jpeg)
