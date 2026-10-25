@@ -28,3 +28,7 @@ C) Encrypted data (data that is disorganized, only accessible if you have access
 I have learned that understanding how an operating system works is essential to understanding how to secure it. Processes, permissions, services, network connections, and system logs all provide valuable information when investigating computer behavior.
 
 I want to strengthen my practical skills and continue building a solid foundation for a career in cybersecurity. Moving on to module 3: Linux. 
+Practical evidence.
+
+Screenshot 1. [Task-manager](7e2880e0-5423-4467-8bcf-788e4901e764.jpeg)
+
