@@ -44,4 +44,4 @@ Screenshot 6. [Disk-management](bac77003-4c38-43e4-b13e-ab8c4f4fbb2e.jpeg)
 
 Screenshot 7. [computer-management](5aaf94fa-4883-4edb-af31-1fbc98bd86aa.jpeg)
 
-Screenshot 8. [Registry-Editor]()
+Screenshot 8. [Registry-Editor](ddd53f95-1027-449d-b54c-7c194273d95c.jpeg)
