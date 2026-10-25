@@ -32,7 +32,7 @@ Practical evidence.
 
 Screenshot 1. [Task-manager](7e2880e0-5423-4467-8bcf-788e4901e764.jpeg)
 
-Screenshot 2. [Device-manager]()
+Screenshot 2. [Device-manager](9dc20023-ea3e-4aa2-98b4-04a9b51a97b6.jpeg)
 
 Screenshot 3. [Event-viewer](1a975d00-7ac1-441a-bd84-faa0d159ccf7.jpeg)
 
