@@ -31,4 +31,10 @@ I want to strengthen my practical skills and continue building a solid foundatio
 Practical evidence.
 
 Screenshot 1. [Task-manager](7e2880e0-5423-4467-8bcf-788e4901e764.jpeg)
-
+Screenshot 2. [Device-manager]()
+Screenshot 3. [Event-viewer]()
+Screenshot 4. [Task-scheduler]()
+Screenshot 5. [Services]()
+Screenshot 6. [Disk-management]()
+Screenshot 7. [computer-management]()
+Screenshot 8. [Registry-Editor]()
