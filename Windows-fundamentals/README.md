@@ -38,5 +38,6 @@ Screenshot 3. [Event-viewer](1a975d00-7ac1-441a-bd84-faa0d159ccf7.jpeg)
 Screenshot 4. [Task-scheduler]()
 Screenshot 5. [Services]()
 Screenshot 6. [Disk-management]()
-Screenshot 7. [computer-management]()
+Screenshot 7. [computer-management](5aaf94fa-4883-4edb-af31-1fbc98bd86aa.jpeg)
+
 Screenshot 8. [Registry-Editor]()
